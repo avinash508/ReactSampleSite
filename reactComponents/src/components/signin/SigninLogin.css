@@ -1,0 +1,13 @@
+.SigninLogin {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.SigninLogin-Email,
+.SigninLogin-Password {
+  margin-bottom: 20px;
+}
+
+.SigninLogin-Label {
+  padding-left: 12px;
+}
